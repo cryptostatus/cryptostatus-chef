@@ -1,0 +1,7 @@
+{
+  "id": "deployer",
+  "password": "$1$rB4gn6E8$7V4WSAxc5TnBW210tarSX",
+  "ssh_keys": [],
+  "groups": ["www-data", "sudo", "rvm", "sysadmin"],
+  "shell": "\/bin\/bash"
+}
